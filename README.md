@@ -91,10 +91,6 @@
   <img src="https://streak-stats.demolab.com?user=zeeshan933&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/22D3EE/zeeshan933" alt="Contribution graph" width="90%" />
-</p>
-
 ## 📫 Contact Me
 
 <p align="center">
