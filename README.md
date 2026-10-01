@@ -83,11 +83,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshan933&label=Profile%20Views&style=for-the-badge&color=0f2027&labelColor=22D3EE" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zeeshan933?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=203a43&labelColor=0f2027" alt="GitHub followers" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=zeeshan933&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
