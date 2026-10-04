@@ -3,6 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Zeeshan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20DevOps&descSize=18&descAlignY=58" width="100%" height="auto" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&height=50&lines=Building+cloud-native+web+apps;Shipping+agentic+AI+%26+RAG+systems;Automating+everything+with+DevOps;Open+to+remote+%26+international+roles" alt="typing" width="650" height="50" />
+
+<p align="center">
+  <a href="https://u8views.com/github/zeeshan933"><img src="https://u8views.com/api/v1/github/profiles/78012884/views/day-week-month-total-count.svg" alt="Muhammad Zeeshan profile views" /></a>
+</p>
+
 <p align="center">
   <a href="mailto:zeeshankhalid9337426@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/923160400154"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
