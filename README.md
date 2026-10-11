@@ -19,7 +19,6 @@
 
 ## 👨‍💻 About Me
 
-- 📍 Based in **Lahore, Pakistan** 🇵🇰
 - 💼 Full Stack Developer at **Sky Cashmere** (Sep 2026 – Present)
 - 🎓 BS in Information Technology (Minhaj University Lahore, 2024) · MS in Artificial Intelligence in progress (UMT Lahore)
 - 🤖 I build RAG pipelines, LLM-powered chatbots, and multi-agent workflows
